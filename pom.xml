@@ -3,7 +3,7 @@
 
     <groupId>net.mattryall.smartquotes</groupId>
     <artifactId>smartquotes</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>Smart Quotes</name>
     <description>
@@ -43,9 +43,9 @@
     </build>
 
     <scm>
-        <connection>scm:svn:http://smartquotes.googlecode.com/svn/trunk</connection>
-        <developerConnection>scm:svn:https://smartquotes.googlecode.com/svn/trunk</developerConnection>
-        <url>http://smartquotes.googlecode.com/svn/trunk</url>
+        <connection>scm:svn:http://smartquotes.googlecode.com/svn/tags/smartquotes-1.0</connection>
+        <developerConnection>scm:svn:https://smartquotes.googlecode.com/svn/tags/smartquotes-1.0</developerConnection>
+        <url>http://smartquotes.googlecode.com/svn/tags/smartquotes-1.0</url>
     </scm>
 
     <distributionManagement>
