@@ -47,4 +47,15 @@
         <developerConnection>scm:svn:https://smartquotes.googlecode.com/svn/trunk</developerConnection>
         <url>https://smartquotes.googlecode.com/svn/trunk</url>
     </scm>
+
+    <distributionManagement>
+        <repository>
+            <id>google-code-releases</id>
+            <url>dav:https://smartquotes.googlecode.com/svn/repository/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>google-code-snapshots</id>
+            <url>dav:https://smartquotes.googlecode.com/svn/repository/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
