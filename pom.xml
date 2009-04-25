@@ -43,9 +43,9 @@
     </build>
 
     <scm>
-        <connection>scm:svn:https://smartquotes.googlecode.com/svn/trunk</connection>
+        <connection>scm:svn:http://smartquotes.googlecode.com/svn/trunk</connection>
         <developerConnection>scm:svn:https://smartquotes.googlecode.com/svn/trunk</developerConnection>
-        <url>https://smartquotes.googlecode.com/svn/trunk</url>
+        <url>http://smartquotes.googlecode.com/svn/trunk</url>
     </scm>
 
     <distributionManagement>
