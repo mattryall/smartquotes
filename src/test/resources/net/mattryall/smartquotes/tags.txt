@@ -1,0 +1,27 @@
+"<b>No!</b>"
+&#8220;<b>No!</b>&#8221;
+
+'<b>No!</b>'
+&#8216;<b>No!</b>&#8217;
+
+# special case only for single quotes
+<em>Custer</em>'s last stand
+<em>Custer</em>&#8217;s last stand
+
+<em>Custer</em>"s last stand
+<em>Custer</em>&#8220;s last stand
+
+<b>"No!"</b>
+<b>&#8220;No!&#8221;</b>
+
+<b>'No!'</b>
+<b>&#8216;No!&#8217;</b>
+
+<b>-"#$%!"-</b>
+<b>-&#8220;#$%!&#8221;-</b>
+
+<cite title="bar">['foo!']</cite>
+<cite title="bar">[&#8216;foo!&#8217;]</cite>
+
+<img src="some-image.png" style="border: 1px solid #000">
+<img src="some-image.png" style="border: 1px solid #000">

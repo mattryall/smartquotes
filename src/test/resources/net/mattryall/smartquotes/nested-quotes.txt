@@ -1,0 +1,6 @@
+"'Here I am', said Sam"
+&#8220;&#8216;Here I am&#8217;, said Sam&#8221;
+
+# known problem: double inside single quotes aren't correctly curled
+'"Here I am", said Sam'
+&#8217;&#8221;Here I am&#8221;, said Sam&#8217;

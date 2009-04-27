@@ -1,0 +1,21 @@
+'I am Sam'
+&#8216;I am Sam&#8217;
+
+'It was so', said he.
+&#8216;It was so&#8217;, said he.
+
+'...even better!'
+&#8216;...even better!&#8217;
+
+With 'quotes' in the middle.
+With &#8216;quotes&#8217; in the middle.
+
+With--'imaginary'--dashes.
+With--&#8216;imaginary&#8217;--dashes.
+
+'Not 'quite' what you expected?'
+&#8216;Not &#8216;quite&#8217; what you expected?&#8217;
+
+# special case for decades
+Back to the '80s...
+Back to the &#8217;80s...

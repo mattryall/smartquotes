@@ -1,0 +1,12 @@
+<pre>Some "quotes" in 'here'?</pre>
+<pre>Some "quotes" in 'here'?</pre>
+
+<pre>Some <a href="#">"quotes"</a> in 'here'?</pre>
+<pre>Some <a href="#">"quotes"</a> in 'here'?</pre>
+
+# nested pre tags don't work in SmartyPants
+<pre>Some <kbd>"quotes"</kbd> in 'here'?</pre>
+<pre>Some <kbd>"quotes"</kbd> in 'here'?</pre>
+
+<em>What about "<code>quotes around 'pre'</code>" blocks?</em>
+<em>What about &#8220;<code>quotes around 'pre'</code>&#8221; blocks?</em>

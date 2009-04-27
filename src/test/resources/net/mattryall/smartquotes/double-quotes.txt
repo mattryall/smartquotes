@@ -1,0 +1,17 @@
+"I am Sam"
+&#8220;I am Sam&#8221;
+
+"It was so", said he.
+&#8220;It was so&#8221;, said he.
+
+"...even better!"
+&#8220;...even better!&#8221;
+
+With "quotes" in the middle.
+With &#8220;quotes&#8221; in the middle.
+
+With--"imaginary"--dashes.
+With--&#8220;imaginary&#8221;--dashes.
+
+"Not "quite" what you expected?"
+&#8220;Not &#8220;quite&#8221; what you expected?&#8221;

@@ -1,0 +1,9 @@
+I don't like it
+I don&#8217;t like it
+
+'It's a beautiful day!'
+&#8216;It&#8217;s a beautiful day!&#8217;
+
+# known problem: leading contractions aren't curled properly
+Don't stop thinkin' 'bout tomorrow.
+Don&#8217;t stop thinkin&#8217; &#8216;bout tomorrow.

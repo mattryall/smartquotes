@@ -1,0 +1,8 @@
+He was only 5\'7\" tall!
+He was only 5&#39;7&#34; tall!
+
+C:\\WINDOWS\\
+C:&#92;WINDOWS&#92;
+
+C:\WINDOWS\
+C:\WINDOWS\

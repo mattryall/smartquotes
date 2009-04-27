@@ -57,6 +57,9 @@ final class HtmlQuoteEducator implements QuoteEducator
         result.replace("\"'(?=\\w)", OPEN_DOUBLE + OPEN_SINGLE);
         result.replace("'\"(?=\\w)", CLOSE_SINGLE + CLOSE_DOUBLE);
 
+        // special case for decade abbreviations, e.g. the '80s
+        result.replace("'(?=\\d{2}s)", CLOSE_SINGLE);
+
         // get most opening single quotes
         result.replace("(" + HTML_SPACE_PATTERN + "|" + HTML_DASHES_PATTERN + ")'(?=\\w)",
             "$1" + OPEN_SINGLE);
