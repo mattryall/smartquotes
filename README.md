@@ -2,11 +2,11 @@ Smart Quotes converts straight ASCII quotes in HTML content to their typographic
 
 For example, it converts
 
-<font face="Georgia">"She's a ripper, mate!"</font>
+> "She's a ripper, mate!"
 
 into
 
-<font face="Georgia">“She’s a ripper, mate!”</font>
+> “She’s a ripper, mate!”
 
 It is an easy-to-use Java library with no dependencies other than Java 1.5 or higher. To correct quotes in your application which produces HTML, you can simply drop the JAR into your classpath and use it this way:
 
