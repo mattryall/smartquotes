@@ -1,3 +1,6 @@
+> **Note**
+This project is not actively maintained and replicates most of the behaviour and limitations of SmartyPants. If you want a more full-featured Java smart quotes library, check out [KeenQuotes](https://github.com/DaveJarvis/KeenQuotes).
+
 Smart Quotes converts straight ASCII quotes in HTML content to their typographically-correct equivalents.
 
 For example, it converts
